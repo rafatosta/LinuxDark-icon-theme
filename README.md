@@ -2,6 +2,10 @@
 
 Modern dark icon theme for Linux desktops.
 
+
+![1](screenshots/s1.png)
+![2](screenshots/s3.png)
+
 ## Documentation
 
 - Contributing guide (English): `CONTRIBUTING.en.md`
