@@ -1,6 +1,7 @@
 code:com.visualstudio.code,visual-studio-code,vscode
 google-chrome:com.google.Chrome,google-chrome-stable
 google-calendar:chrome-kjbdgfilnfhdoflbpgamdcdgpehopbep-Default
+overleaf:chrome-jhpbckdbkbjphhfgklchhblgpjhnojbg-Profile_1
 terminal:org.gnome.Ptyxis
 whatsapp:com.ktechpit.whatsie,io.github.tobagin.karere
 spotify:com.spotify.Client,spotify
